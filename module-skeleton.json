@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-gamification-react-native",
+  "capabilityKey": "liberusoftware/module-genealogy-gamification",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-genealogy-gamification-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/genealogy/nextjs/genealogy-gamification.md",
+  "presentationPlan": "projects/genealogy/react-native/genealogy-gamification.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
